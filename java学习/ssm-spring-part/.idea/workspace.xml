@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3ae8fba-cc60-416d-9315-7f56c6800480" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../..//java学习/SSMstudy/springIoC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/SSMstudy/springIoC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/SSMstudy/springIoC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/SSMstudy/springIoC/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/SSMstudy/springIoC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/SSMstudy/springIoC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/SSMstudy/springIoC/sping-ioc-xml-practise-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/SSMstudy/springIoC/sping-ioc-xml-practise-02/src/main/java/com/itguigu/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/SSMstudy/springIoC/sping-ioc-xml-practise-02/src/test/java/com/itguigu/jdbc/JdbcTemplateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/hahha/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/hahha/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/hahha/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/hahha/hahha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/spring-ioc-xml-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/spring-ioc-xml-01/spring-ioc-xml-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/spring-ioc-xml-01/src/main/java/com/atguigu/ioc/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/spring-ioc-xml-01/src/main/java/com/atguigu/ioc/HappyConponet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/spring-ioc-xml-01/src/main/resources/xml-02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/spring-ioc-xml-01/src/main/resources/xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//java学习/ssm-spring-part/ssm-spring-part.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.9.4" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ViDq3qutmn86WB6nGKxsiD7TDx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8 (2)",
+    "last_opened_file_path": "E:/Java-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "spring.configuration.checksum": "9dc929caa93d10c76ff64e7e6c472018",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="haha.ha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-ioc-xml-01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="haha" />
+      <option name="METHOD_NAME" value="ha" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.haha.ha" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3ae8fba-cc60-416d-9315-7f56c6800480" name="Changes" comment="" />
+      <created>1695310199304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695310199304</updated>
+      <workItem from="1695310202454" duration="2922000" />
+      <workItem from="1695959229904" duration="100000" />
+      <workItem from="1697723583166" duration="123000" />
+      <workItem from="1697981822337" duration="260000" />
+      <workItem from="1697982303810" duration="233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
